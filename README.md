@@ -3,6 +3,8 @@ Virtual Internship - Android Application Development Using Kotlin
 
 # Preview Of Application
 ## Home Screen
+![Untitled-1](https://user-images.githubusercontent.com/66480577/191076865-92893690-efe3-40db-b03b-a32e40a0e14f.png)
+
 
 ## Library References
 - MVVM
