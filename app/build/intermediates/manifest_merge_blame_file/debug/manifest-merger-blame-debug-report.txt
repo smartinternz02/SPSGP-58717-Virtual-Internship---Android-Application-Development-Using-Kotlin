@@ -1,0 +1,102 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.parth.GroceryApp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:5:5-31:19
+12        android:name="com.parth.GroceryApp.AppController"
+12-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:6:9-58
+13        android:allowBackup="true"
+13-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:7:9-35
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.5.0] C:\Users\parth\.gradle\caches\transforms-3\3ee29c7db826520d7b5c3b3f3d3bb67f\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:8:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:9:9-41
+18        android:roundIcon="@mipmap/ic_launcher"
+18-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:10:9-48
+19        android:supportsRtl="true"
+19-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:11:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.FoodApp"
+21-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:12:9-45
+22        android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
+22-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:13:9-66
+23        <activity android:name="com.parth.GroceryApp.ui.product.ProductActivity" >
+23-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:14:9-16:20
+23-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:14:19-81
+24        </activity>
+25        <activity
+25-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:17:9-19:73
+26            android:name="com.parth.GroceryApp.ui.activity.MainActivity"
+26-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:18:13-73
+27            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+27-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:19:13-70
+28        <activity android:name="com.parth.GroceryApp.ui.activity.RegistrasiActivity" />
+28-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:20:9-88
+28-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:20:19-85
+29        <activity android:name="com.parth.GroceryApp.ui.activity.LoginAvtivity" />
+29-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:21:9-83
+29-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:21:19-80
+30        <activity android:name="com.parth.GroceryApp.ui.activity.GetStartedActivity" />
+30-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:22:9-88
+30-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:22:19-85
+31        <activity android:name="com.parth.GroceryApp.ui.detailproduct.DetailProductActivity" />
+31-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:23:9-96
+31-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:23:19-93
+32        <activity android:name="com.parth.GroceryApp.ui.activity.SplashActivity" >
+32-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:24:9-30:20
+32-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:24:19-81
+33            <intent-filter>
+33-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:25:13-29:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:26:17-69
+34-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:26:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:28:17-77
+36-->C:\Users\parth\Downloads\Vafrow - Grocery Store\app\src\main\AndroidManifest.xml:28:27-74
+37            </intent-filter>
+38        </activity>
+39
+40        <provider
+40-->[com.squareup.picasso:picasso:2.71828] C:\Users\parth\.gradle\caches\transforms-3\b2995cc519c9edbd8da6f38d12d080eb\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+41            android:name="com.squareup.picasso.PicassoProvider"
+41-->[com.squareup.picasso:picasso:2.71828] C:\Users\parth\.gradle\caches\transforms-3\b2995cc519c9edbd8da6f38d12d080eb\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+42            android:authorities="com.parth.GroceryApp.com.squareup.picasso"
+42-->[com.squareup.picasso:picasso:2.71828] C:\Users\parth\.gradle\caches\transforms-3\b2995cc519c9edbd8da6f38d12d080eb\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+43            android:exported="false" />
+43-->[com.squareup.picasso:picasso:2.71828] C:\Users\parth\.gradle\caches\transforms-3\b2995cc519c9edbd8da6f38d12d080eb\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+44
+45        <service
+45-->[androidx.room:room-runtime:2.2.6] C:\Users\parth\.gradle\caches\transforms-3\5a9d24a4adf3d7c0bd8235b500b86d08\transformed\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
+46            android:name="androidx.room.MultiInstanceInvalidationService"
+46-->[androidx.room:room-runtime:2.2.6] C:\Users\parth\.gradle\caches\transforms-3\5a9d24a4adf3d7c0bd8235b500b86d08\transformed\room-runtime-2.2.6\AndroidManifest.xml:26:13-74
+47            android:directBootAware="true"
+47-->[androidx.room:room-runtime:2.2.6] C:\Users\parth\.gradle\caches\transforms-3\5a9d24a4adf3d7c0bd8235b500b86d08\transformed\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
+48            android:exported="false" />
+48-->[androidx.room:room-runtime:2.2.6] C:\Users\parth\.gradle\caches\transforms-3\5a9d24a4adf3d7c0bd8235b500b86d08\transformed\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
+49
+50        <provider
+50-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\parth\.gradle\caches\transforms-3\2dd8259657f21d91caf627e39eb5f128\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+51            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\parth\.gradle\caches\transforms-3\2dd8259657f21d91caf627e39eb5f128\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+52            android:authorities="com.parth.GroceryApp.lifecycle-process"
+52-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\parth\.gradle\caches\transforms-3\2dd8259657f21d91caf627e39eb5f128\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+53            android:exported="false"
+53-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\parth\.gradle\caches\transforms-3\2dd8259657f21d91caf627e39eb5f128\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+54            android:multiprocess="true" />
+54-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\parth\.gradle\caches\transforms-3\2dd8259657f21d91caf627e39eb5f128\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+55    </application>
+56
+57</manifest>

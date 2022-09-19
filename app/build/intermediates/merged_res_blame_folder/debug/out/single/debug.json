@@ -1,0 +1,566 @@
+[
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_item_favorite.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/item_favorite.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xxxhdpi_ic_logo_color.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xxxhdpi/ic_logo_color.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_search.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_search.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_fragment_favorite.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_delete_or_close.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_delete_or_close.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_beef_bone.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_beef_bone.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-mdpi_ic_logo_splash.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-mdpi/ic_logo_splash.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_about.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_about.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_item_explore.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/item_explore.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_activity_get_started.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/activity_get_started.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_explore.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_explore.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_fragment_cart.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_banner2.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/banner2.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_item_cart.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/item_cart.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-hdpi_ic_delicery_address.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-hdpi/ic_delicery_address.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xxhdpi_ic_logo_splash.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xxhdpi/ic_logo_splash.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_user.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xhdpi_ic_delicery_address.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xhdpi/ic_delicery_address.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_fragment_explore.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/fragment_explore.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_get_started.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_get_started.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-anydpi-v24_ic_logo_splash.xml.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-anydpi-v24/ic_logo_splash.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xxxhdpi_ic_delicery_address.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xxxhdpi/ic_delicery_address.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xxhdpi_ic_logo_color.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xxhdpi/ic_logo_color.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_cart.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_cart.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_edit_name.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_edit_name.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-anydpi-v24_ic_delicery_address.xml.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-anydpi-v24/ic_delicery_address.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_logofevicon2.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/logofevicon2.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xxxhdpi_ic_logo_splash.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xxxhdpi/ic_logo_splash.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-mdpi_ic_minus.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-mdpi/ic_minus.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_item_groceries.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/item_groceries.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-anydpi-v24_ic_logo.xml.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-anydpi-v24/ic_logo.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_rounded_purplesmoke.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_rounded_purplesmoke.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_item_product.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-ldpi_ic_delicery_address.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-ldpi/ic_delicery_address.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_juice_apple_grape.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_juice_apple_grape.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_picture_avatar_green.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/picture_avatar_green.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_fruits_vagetable.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_fruits_vagetable.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-ldpi_ic_logo.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-ldpi/ic_logo.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_detail_product.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_detail_product.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_btn_add_green.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_btn_add_green.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_banner3.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/banner3.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_egg_chicken.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_egg_chicken.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_round_error.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_round_error.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_button_green.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_button_green.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_promo.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_promo.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_rounded_honeydew.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_rounded_honeydew.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-ldpi_ic_logo_color.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-ldpi/ic_logo_color.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/menu_menu_bottom_nav.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/menu/menu_bottom_nav.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_foto_profile.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/foto_profile.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_cocacola.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_cocacola.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xhdpi_ic_logo_color.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xhdpi/ic_logo_color.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_favorite_outline.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_favorite_outline.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-mdpi_ic_logo.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-mdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_favorite_checkbox.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/favorite_checkbox.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-hdpi_ic_minus.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-hdpi/ic_minus.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_favorite.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xxxhdpi_ic_minus.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xxxhdpi/ic_minus.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xxhdpi_ic_delicery_address.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xxhdpi/ic_delicery_address.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-hdpi_ic_logo_splash.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-hdpi/ic_logo_splash.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xhdpi_ic_logo.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xhdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_coke.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_coke.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_detail.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_detail.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_account.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_account.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_activity_detail_product.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/activity_detail_product.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_activity_splash.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_help.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_logofevicon.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/logofevicon.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_payment.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_payment.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_dairy_eggs.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_dairy_eggs.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_rounded_mistyrose.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_rounded_mistyrose.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_rice.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_rice.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_item_exclusive_offer.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/item_exclusive_offer.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_pepper_red.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_pepper_red.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_round_white.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_round_white.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_sprite.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_sprite.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_logo.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/logo.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_bananas.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_bananas.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_round_email.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_round_email.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_login.jpg.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_login.jpg"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_search.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_apple.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_apple.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_activity_registrasi.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/activity_registrasi.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_activity_product.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/activity_product.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-hdpi_ic_logo_color.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-hdpi/ic_logo_color.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_orders.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_orders.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_banner.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/banner.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_fragment_account.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_activity_login_avtivity.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/activity_login_avtivity.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_person.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xhdpi_ic_logo_splash.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xhdpi/ic_logo_splash.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bottom_nav_selector.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bottom_nav_selector.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_favorite_fiiled.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_favorite_fiiled.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-hdpi_ic_logo.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-hdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_logo2.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/logo2.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_fragment_shop.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_round_add.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_round_add.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_shope.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_shope.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_juice_orange.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_juice_orange.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_rounded_seashell.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_rounded_seashell.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_egg_as.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_egg_as.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-ldpi_ic_minus.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-ldpi/ic_minus.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-mdpi_ic_logo_color.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-mdpi/ic_logo_color.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_bell.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_bell.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_arrow_forward.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_arrow_forward.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_bottom_nav_bar.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_bottom_nav_bar.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-ldpi_ic_logo_splash.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-ldpi/ic_logo_splash.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_pepsi.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_pepsi.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-anydpi-v24_ic_minus.xml.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-anydpi-v24/ic_minus.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xhdpi_ic_minus.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xhdpi/ic_minus.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/layout_item_best_selling.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/layout/item_best_selling.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_log_out.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_log_out.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xxhdpi_ic_logo.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-mdpi_ic_delicery_address.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-mdpi/ic_delicery_address.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_boiler_chicken.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_boiler_chicken.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_round_add_green.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_round_add_green.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xxxhdpi_ic_logo.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xxxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-xxhdpi_ic_minus.png.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-xxhdpi/ic_minus.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_round_delete.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_round_delete.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_card_view.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_card_view.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_rounded.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_rounded.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_button_gray.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_button_gray.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_beverages.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_beverages.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_mayonnaise_eggless.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_mayonnaise_eggless.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable-anydpi-v24_ic_logo_color.xml.flat",
+        "source": "com.parth.GroceryApp.app-pngs-20:/drawable-anydpi-v24/ic_logo_color.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_ic_round_lock_24.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/ic_round_lock_24.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_bg_round_white_item.xml.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/bg_round_white_item.xml"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/drawable_iv_ginger.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/drawable/iv_ginger.png"
+    },
+    {
+        "merged": "com.parth.GroceryApp.app-merged_res-25:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.parth.GroceryApp.app-main-27:/mipmap-hdpi/ic_launcher_foreground.png"
+    }
+]

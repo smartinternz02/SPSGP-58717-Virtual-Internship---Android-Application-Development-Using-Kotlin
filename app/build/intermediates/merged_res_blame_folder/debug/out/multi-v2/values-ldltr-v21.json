@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.parth.GroceryApp.app-mergeDebugResources-23:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\parth\\.gradle\\caches\\transforms-3\\15280ba28280cde9147982f100309646\\transformed\\appcompat-1.3.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

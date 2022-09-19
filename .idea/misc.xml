@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_detail_product.xml" value="0.25" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_get_started.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_login_avtivity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_product.xml" value="0.22" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_registrasi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_account.xml" value="0.18" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_cart.xml" value="0.33" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_explore.xml" value="0.25" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_favorite.xml" value="0.22" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/fragment_shop.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_best_selling.xml" value="0.5" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_cart.xml" value="0.25" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_explore.xml" value="0.33" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_favorite.xml" value="0.25" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_groceries.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/layout/item_product.xml" value="0.25" />
+        <entry key="..\:/Users/parth/Downloads/Grocery-Store-Toko-Sembako-master/app/src/main/res/menu/menu_bottom_nav.xml" value="0.25" />
+        <entry key="..\:/Users/parth/Downloads/Vafrow - Grocery Store/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
