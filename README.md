@@ -5,6 +5,8 @@ Virtual Internship - Android Application Development Using Kotlin
 ## Home Screen
 ![Untitled-1](https://user-images.githubusercontent.com/66480577/191076865-92893690-efe3-40db-b03b-a32e40a0e14f.png)
 
+##Explore Screen
+![Screenshot_20220919_220831](https://user-images.githubusercontent.com/66480577/191077150-95863b97-0ddc-4bea-9017-c1fe8f8cf29b.png)
 
 ## Library References
 - MVVM
